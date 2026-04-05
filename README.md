@@ -1,4 +1,5 @@
 # Projet Numérique
+*Par Odilon Benedetti, Ève Guyard-Guepratte, Erwan Maugeri Le Goff, Raphaël Senouf*
 
 Dans le cadre de l'UE "Projet Numérique" de L2 LDD MP, nous tentons à travers un travail de
 L'objecitf de ce projet est de déterminer le potentiel électrique $V$ autour d'une plaque $\Omega$ de dimensions finies, et nous allons y parvenir par analyse du problème.
