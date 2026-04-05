@@ -1,6 +1,5 @@
-# Projet Numérique
+# Projet Numérique - SP1: Approche Analytique
 *Par Odilon Benedetti, Ève Guyard-Guepratte, Erwan Maugeri Le Goff, Raphaël Senouf*
 
-Dans le cadre de l'UE "Projet Numérique" de L2 LDD MP, nous tentons à travers un travail de
-L'objecitf de ce projet est de déterminer le potentiel électrique $V$ autour d'une plaque $\Omega$ de dimensions finies, et nous allons y parvenir par analyse du problème.
-Il s'agit du problème de Laplace, qu'on peut écire de la manière suivante :
+Dans le cadre de l'UE "Projet Numérique" (LSDMP400) de L2 double licence MP, nous tentons de resoudre numériquement le problème de Laplace appliqué à la distribution de champ électrique dans un matériau isolant en présence d’électrodes métalliques.
+Le travail est décomposé en plusieurs sous parties et sous groupes de travail. Notre groupe se concentre sur la résolution analytique à partir de solutions connues.
